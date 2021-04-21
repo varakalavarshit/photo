@@ -1,0 +1,28 @@
+/*------------------------------------*\
+    MATERIAL PHOTO GALLERY
+\*------------------------------------*/
+body {
+  text-align : center;
+  background-color: red;
+}
+p {
+  font-weight: bold;
+  font-size: 50px
+}
+img {
+  height: 300px;
+  width:300px;
+}	
+#myCarousel {
+    background-color: brown;
+}
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: darkolivegreen;
+    font-size: 20px;
+}
